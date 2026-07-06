@@ -43,8 +43,7 @@ Moto: "Terus belajar, terus berkarya, dan memberikan manfaat bagi sesama."
 <p>Portofolio akan diperbarui secara berkala.</p>
 
 <h2>Kontak</h2>
-<p>Email: emailkamu@example.com</p>
-<p>Instagram: @usernamekamu</p>
+<p>Instagram: @zamm2012_</p>
 
 <hr>
 <p>&copy; 2026 Nizam Ar Rizqi</p>
